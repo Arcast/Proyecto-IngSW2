@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+  <user name="Administrador" lastName="Administrador" nickname="admin" password="admin" email="admin@admin.com" birthDay="1/1/1" ID="123" rol="Administrador" />
+  <user name="Inventario" lastName="Inventario" nickname="invent" password="invent" email="invent@invent.com" birthDay="1/1/1" ID="123" rol="Inventario" />
+  <user name="dfd" lastName="d" nickname="fd" password="a" email="d" birthDay="34/4/3" ID="3" rol="comprador" />
+</root>

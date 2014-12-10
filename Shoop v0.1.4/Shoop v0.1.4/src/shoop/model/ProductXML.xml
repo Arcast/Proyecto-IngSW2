@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+  <product category="Book and Audible" name="b" imageurl="" description="b" provider="b" price="1" mincant="1" id="bBook and Audibleb" actualcant="1" />
+  <product category="Book and Audible" name="c" imageurl="" description="c" provider="c" price="3" mincant="1" id="cBook and Audiblec" actualcant="3" />
+  <product category="Book and Audible" name="a" imageurl="" description="a" provider="a" price="2" mincant="1" id="aBook and Audiblea" actualcant="28" />
+  <product category="Book and Audible" name="assd" imageurl="" description="asd" provider="asd" price="234243" mincant="1" id="assdBook and Audibleasd" actualcant="23421435" />
+  <product category="Book and Audible" name="libro" imageurl="" description="a" provider="1" price="1" mincant="1" id="libroBook and Audible1" actualcant="1" />
+  <product category="Book and Audible" name="nolibro" imageurl="" description="2" provider="2" price="2" mincant="1" id="nolibroBook and Audible2" actualcant="2" />
+  <product category="Book and Audible" name="libro" imageurl="" description="1" provider="2" price="2" mincant="1" id="libroBook and Audible2" actualcant="5" />
+  <product category="Book and Audible" name="libro" imageurl="" description="2" provider="qqw" price="12" mincant="1" id="libroBook and Audibleqqw" actualcant="12" />
+  <product category="Book and Audible" name="s" imageurl="" description="s" provider="s" price="1" mincant="1" id="sBook and Audibles" actualcant="1" />
+  <product category="Book and Audible" name="s" imageurl="" description="2" provider="2" price="2" mincant="1" id="sBook and Audible2" actualcant="2" />
+</root>
