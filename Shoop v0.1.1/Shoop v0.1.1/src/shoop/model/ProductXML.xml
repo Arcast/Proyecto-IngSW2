@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+  <product category="Book and Audible" name="b" imageurl="" description="b" provider="b" price="1" mincant="1" id="bBook and Audibleb" actualcant="1" />
+  <product category="Book and Audible" name="c" imageurl="" description="c" provider="c" price="3" mincant="1" id="cBook and Audiblec" actualcant="3" />
+  <product category="Book and Audible" name="a" imageurl="" description="a" provider="a" price="2" mincant="1" id="aBook and Audiblea" actualcant="28" />
+</root>
