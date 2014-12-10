@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+  <user name="f" lastName="g" nickname="frank" password="123" email="triseraptor@gmail.com" birthDay="18/11/1987" ID="18837448" />
+  <user name="Juansadsd" lastName="asdas" nickname="zokappa" password="hola" email="sdasd" birthDay="54/45/54" ID="20921092" />
+</root>
