@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+  <product category="Book and Audible" name="La Biblia" imageurl="" description="Religioso" provider="Dios" price="10,000" mincant="1" id="La BibliaBook and AudibleDios" actualcant="10" />
+  <product category="Games" name="Call of duty 4" imageurl="" description="Videogames" provider="Ubisoft" price="10,000" mincant="1" id="Call of duty 4GamesUbisoft" actualcant="34" />
+</root>
