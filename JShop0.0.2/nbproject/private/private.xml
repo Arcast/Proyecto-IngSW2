@@ -3,10 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Documents%20and%20Settings/Arcast/Mis%20documentos/NetBeansProjects/JShop0.0.2/src/shoop/view/EditProfile.java</file>
-            <file>file:/C:/Documents%20and%20Settings/Arcast/Mis%20documentos/NetBeansProjects/JShop0.0.2/src/shoop/model/UserXmlFile.java</file>
-            <file>file:/C:/Documents%20and%20Settings/Arcast/Mis%20documentos/NetBeansProjects/JShop0.0.2/src/shoop/view/Lobby.java</file>
-            <file>file:/C:/Documents%20and%20Settings/Arcast/Mis%20documentos/NetBeansProjects/JShop0.0.2/src/shoop/controller/EditProfileViewController.java</file>
+            <file>file:/C:/Users/Juan%20Francisco/Desktop/JShop0.0.2/src/shoop/view/Lobby.java</file>
+            <file>file:/C:/Users/Juan%20Francisco/Desktop/JShop0.0.2/src/shoop/controller/LobbyViewController.java</file>
+            <file>file:/C:/Users/Juan%20Francisco/Desktop/JShop0.0.2/src/shoop/model/UserXML.xml</file>
+            <file>file:/C:/Users/Juan%20Francisco/Desktop/JShop0.0.2/src/shoop/model/UserXmlFile.java</file>
+            <file>file:/C:/Users/Juan%20Francisco/Desktop/JShop0.0.2/src/shoop/view/EditProfile.java</file>
+            <file>file:/C:/Users/Juan%20Francisco/Desktop/JShop0.0.2/src/shoop/view/Register.java</file>
         </group>
     </open-files>
 </project-private>
